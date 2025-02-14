@@ -1,0 +1,21 @@
+---
+title: "resume"
+---
+
+## Education
+
+**B.S. in Environmental Science & Sustainability**\
+Colorado State University (Expected Graduation: 2026)
+
+## Experience
+
+-   **Research Assistant - CSU Bat Lab**
+-   **Science Communicator - Kelp Lab**
+
+## Skills
+
+-   Environmental Policy Analysis
+-   Marine Carbon Management
+-   Scientific Writing & Communication
+
+[**Return to Home**](index.html)
