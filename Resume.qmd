@@ -2,20 +2,23 @@
 title: "Resume"
 ---
 
+# Yazeed Aljohani
+
 ## Education
 
-**B.S. in Environmental Science & Sustainability**\
-Colorado State University (Expected Graduation: 2026)
+-   Bachelor of Environmental Science and Sustainability\
+-   Colorado State University, Expected Graduation: Spring 2026
 
 ## Experience
 
--   **Research Assistant - CSU Bat Lab**
--   **Science Communicator - Kelp Lab**
+-   **Research Assistant** - Kelp Lab, Colorado State University
+    -   Conducted bat conservation outreach research.
+    -   Analyzed public perception of bat facilities using social media data.
 
 ## Skills
 
--   Environmental Policy Analysis
--   Marine Carbon Management
--   Scientific Writing & Communication
+-   GIS Mapping
+-   Data Analysis
+-   Quarto & GitHub
 
-[**Return to Home**](index.html)
+[Return to Home](index.html)
