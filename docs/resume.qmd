@@ -7,4 +7,4 @@ toc-depth: 2
 
 [📄 View MyResume (PDF)](media/Yazeed_Resume_3.pdf)
 
-[Return to  Home](index.html)
+[Return to Home](index.html)
