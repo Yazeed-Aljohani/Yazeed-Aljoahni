@@ -1,58 +1,37 @@
 [
   {
-    "objectID": "Resume.html",
-    "href": "Resume.html",
-    "title": "resume",
-    "section": "",
-    "text": "B.S. in Environmental Science & Sustainability\nColorado State University (Expected Graduation: 2026)"
-  },
-  {
-    "objectID": "Resume.html#education",
-    "href": "Resume.html#education",
-    "title": "resume",
-    "section": "",
-    "text": "B.S. in Environmental Science & Sustainability\nColorado State University (Expected Graduation: 2026)"
-  },
-  {
-    "objectID": "Resume.html#experience",
-    "href": "Resume.html#experience",
-    "title": "resume",
-    "section": "Experience",
-    "text": "Experience\n\nResearch Assistant - CSU Bat Lab\nScience Communicator - Kelp Lab"
-  },
-  {
-    "objectID": "Resume.html#skills",
-    "href": "Resume.html#skills",
-    "title": "resume",
-    "section": "Skills",
-    "text": "Skills\n\nEnvironmental Policy Analysis\nMarine Carbon Management\nScientific Writing & Communication\n\nReturn to Home"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "projects",
-    "section": "",
-    "text": "I worked on a project related to bat conservation and social media outreach.\nThis involved\n\ndata analysis\npublic perception research\nenvironmental communication\nReturn to Home"
-  },
-  {
-    "objectID": "projects.html#bat-conservation-outreach",
-    "href": "projects.html#bat-conservation-outreach",
-    "title": "projects",
-    "section": "",
-    "text": "I worked on a project related to bat conservation and social media outreach.\nThis involved\n\ndata analysis\npublic perception research\nenvironmental communication\nReturn to Home"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Yazeed Aljohani",
     "section": "",
     "text": "About Me\nAn Ecosystem Science and Sustainability major with a strong interest in carbon management. While in school, I have been involved in research projects on bat conservation, working on data collection and analysis. In professional settings, I bring analytical thinking to contribute to sustainability initiatives and ecological research. I seek to apply my expertise in organizations focused on environmental sustainability and leverage my core competencies:\n\nData collection and analysis\nEcological research methods\nScience communication"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "resume",
+    "section": "",
+    "text": "B.S. in Environmental Science & Sustainability\nColorado State University (Expected Graduation: 2026)"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "resume",
+    "section": "",
+    "text": "B.S. in Environmental Science & Sustainability\nColorado State University (Expected Graduation: 2026)"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "resume",
+    "section": "Experience",
+    "text": "Experience\n\nResearch Assistant - CSU Bat Lab\nScience Communicator - Kelp Lab"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "resume",
+    "section": "Skills",
+    "text": "Skills\n\nEnvironmental Policy Analysis\nMarine Carbon Management\nScientific Writing & Communication\n\nReturn to Home"
   }
 ]
