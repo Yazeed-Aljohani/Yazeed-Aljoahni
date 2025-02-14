@@ -3,15 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "Yazeed Aljoahni"
+  title: "Yazeed Aljohani"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
-      - href: resources.qmd
-        text: resources
+   left:
+     - href: index.qmd
+       text: Home
+     - about.qmd
+     - resources.qmd
+
 format:
   html:
     theme: cosmo
