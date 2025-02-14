@@ -2,8 +2,6 @@
 title: "Resume"
 ---
 
----
-
 ## Education
 
 **B.S. in Environmental Science & Sustainability**\
