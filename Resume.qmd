@@ -1,5 +1,8 @@
 ---
 title: "Resume"
+format: html
+toc: true
+toc-depth: 2
 ---
 
 # Yazeed Aljohani
