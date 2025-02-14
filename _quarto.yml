@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  favicon: img/favicon.ico
   title: "Yazeed Aljohani"
   navbar:
    left:
