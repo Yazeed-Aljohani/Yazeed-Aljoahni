@@ -10,6 +10,8 @@ website:
        text: Home
      - about.qmd
      - resources.qmd
+     - projects.qmd
+     - Rsume.qmd
 
 format:
   html:
