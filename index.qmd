@@ -19,12 +19,12 @@ about:
       href: mailto:yazeed21@colostate.edu
 ---
 
-# About Me
+#  About Me
 
 An Ecosystem Science and Sustainability major with a strong interest in carbon management. While in school, I have been involved in research projects on bat conservation, working on data collection and analysis. In professional settings, I bring analytical thinking to contribute to sustainability initiatives and ecological research. I seek to apply my expertise in organizations focused on environmental sustainability and leverage my core competencies:
 
--   **Data collection and analysis**
+-   Data collection and analysis
 
--   **Ecological research methods**
+-   Ecological research methods
 
--   **Science communication**
+-   Science communication
