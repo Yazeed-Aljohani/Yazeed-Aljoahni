@@ -6,14 +6,17 @@ website:
   favicon: media/favicon.ico
   title: "Yazeed Aljohani"
   navbar:
-   left:
-     - href: index.qmd
-       text: Home
-     - about.qmd
-     - resources.qmd
-     - projects.qmd
-     - Rsume.qmd
-
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: resources.qmd
+        text: Resources
+      - href: projects.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume
 format:
   html:
     theme: lux
