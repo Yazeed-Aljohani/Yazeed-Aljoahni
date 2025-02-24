@@ -2,15 +2,6 @@
 title: "projects"
 ---
 
-## Bat Conservation Outreach
-
-I worked on a project related to **bat conservation and social media outreach**.\
-This involved
-
--   **data analysis**
-
--    **public perception research**
-
--   **environmental communication**
+-   [**Lab 2 (MinnesotaTreeGrowth)**](https://yazeed-aljohani.github.io/ESS330_Lab2_MinnesotaTreeGrowth-2/)
 
 -   [**Return to Home**](index.html)
