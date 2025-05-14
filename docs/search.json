@@ -14,13 +14,6 @@
     "text": "In this lab, I explored a large dataset of over 130,000 tree growth records using core dplyr functions like filter(), slice_max(), mutate(), and summarize(). I analyzed tree ages, growth increments, and basal area to understand patterns across species and years. I also classified trees into size classes and identified the fastest- and slowest-growing species."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "projects.html#lab-2-exploring-tree-growth-data-with-dplyr-fastest-growing-trees",
     "href": "projects.html#lab-2-exploring-tree-growth-data-with-dplyr-fastest-growing-trees",
     "title": "projects",
@@ -96,5 +89,12 @@
     "title": "projects",
     "section": "Lab 11: Lightning Talk",
     "text": "Lab 11: Lightning Talk\n For this lab, we presented a lightning talk summarizing our final project on CO₂ emissions in the top five polluting countries before and after COVID-19. We used emissions and energy data from 2015 to 2022 to analyze trends, run ANOVA tests, and build machine learning models. Our key findings showed that GDP per capita, land use, and fossil fuel use were major predictors of emission patterns. This talk helped us practice science communication and present complex results in a clear, engaging format.\n\nReturn to Home"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
