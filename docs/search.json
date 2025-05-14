@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "Resume.html",
+    "href": "Resume.html",
+    "title": "resume",
+    "section": "",
+    "text": "📄 View MyResume (PDF)\nReturn to Home"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "projects",
+    "section": "",
+    "text": "#Lab 2: Exploring Tree Growth Data with dplyr \nIn this lab, I explored a large dataset of over 130,000 tree growth records using core dplyr functions like filter(), slice_max(), mutate(), and summarize(). I analyzed tree ages, growth increments, and basal area to understand patterns across species and years. I also classified trees into size classes and identified the fastest- and slowest-growing species.\n#Lab 3: COVID-19 Data Wrangling and Visualization \nIn this lab, I worked with county-level COVID-19 data from the New York Times GitHub repository and U.S. Census population estimates. I used dplyr and ggplot2 to calculate new cases, deaths, and per capita metrics. I also created visualizations to explore patterns across Colorado counties and between states like New York, Colorado, Ohio, and Alabama. I practiced data normalization, rolling averages, faceted plots, and spatial analysis by calculating weighted centers of case locations.\n#Lab 4: LTER Network Data – Statistics in R \nIn this lab, I worked with fish and salamander measurements from the Andrews Forest and crab size data from salt marshes along the U.S. East Coast. I used chi-square tests to examine relationships between categorical variables, t-tests to compare group means, and correlation tests to assess associations between continuous variables. I also practiced using ANOVA and regression models to analyze crab size variation across different sites and environmental gradients. This lab helped strengthen my understanding of statistical assumptions and proper interpretation of p-values, confidence intervals, and model diagnostics.\n#Lab 5: Research Proposals\n In this lab, I practiced writing structured research proposals by developing two independent project ideas. Each proposal included a clear title, justification supported by peer-reviewed sources, a defined research question or hypothesis, proposed methods using at least two datasets, and expected outcomes. This assignment helped me think critically about study design, data integration, and how to formulate testable questions within ecological and environmental science. We compiled all group members’ proposals into a single Quarto manuscript and published it online through GitHub Pages.\n#Lab 6: Machine Learning  In this lab, I built and compared three machine learning models: XGBoost, Random Forest, and Neural Network. The goal was to predict streamflow using the CAMELS dataset. I evaluated model performance using cross-validation and selected the best model based on R². I also created maps to visualize key predictors and learned how to build a full modeling pipeline using tidymodels in R. This lab helped me understand how to compare models and test how well they perform on new data.\n#Lab 7: Project Kickoff \nIn this lab, we officially started our final group project by setting up a Quarto manuscript and organizing our research plan. We drafted the project title, background, and research questions, and began exploring and cleaning our data. Our project focuses on analyzing transportation-related CO₂ emissions and mobility patterns during the COVID-19 pandemic. This lab helped us prepare for the full analysis by outlining our methods and identifying key challenges and datasets.\n#Lab 8: Hyperparameter Tuning  In this lab, I built and tuned an XGBoost regression model to predict logQmean (mean streamflow) using the CAMELS dataset. I practiced creating a machine learning workflow in R with tidymodels, applied feature engineering steps (like logging and normalization), and ran a hyperparameter search using a Latin Hypercube grid. I evaluated model performance using cross-validation and selected the best combination of parameters (trees, tree depth, and learning rate). My final model achieved strong performance, with an R² of 0.912 and RMSE of 0.354 on the test set, showing it generalized well. I also visualized spatial predictions and residuals, which highlighted regional trends in streamflow across the U.S.\n#Lab 9: Project Updates  In this lab, we focused on expanding the methods, results, and discussion sections for our final project. We finalized our analysis process, created new visualizations, and summarized key results without interpretation. We also began drafting our discussion to highlight the significance of our findings, limitations, and future research directions. This lab helped us move from data processing to communicating our results more effectively.\n#Lab 10: Distances and the Border Zone  In this lab, I used spatial data and R to calculate how far US cities are from state and national borders. I mapped the 100 mile border zone and found that over 9,800 cities, home to more than half the US population, fall within this area. I also visualized the largest cities in the zone and explored how geography can influence legal and policy boundaries. This lab helped me apply spatial analysis tools to real world issues.\n#Lab 11: Lightning Talk  For this lab, we presented a lightning talk summarizing our final project on CO₂ emissions in the top five polluting countries before and after COVID-19. We used emissions and energy data from 2015 to 2022 to analyze trends, run ANOVA tests, and build machine learning models. Our key findings showed that GDP per capita, land use, and fossil fuel use were major predictors of emission patterns. This talk helped us practice science communication and present complex results in a clear, engaging format.\n\nReturn to Home"
+  },
+  {
+    "objectID": "projects.html#bat-conservation-outreach",
+    "href": "projects.html#bat-conservation-outreach",
+    "title": "Yazeed Aljohani",
+    "section": "",
+    "text": "I worked on a project related to bat conservation and social media outreach.\nThis involved\n\ndata analysis\npublic perception research\nenvironmental communication\nReturn to Home"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yazeed Aljohani",
+    "section": "",
+    "text": "About Me\nAn Ecosystem Science and Sustainability major with a strong interest in carbon management. While in school, I have been involved in research projects on bat conservation, working on data collection and analysis. In professional settings, I bring analytical thinking to contribute to sustainability initiatives and ecological research. I seek to apply my expertise in organizations focused on environmental sustainability and leverage my core competencies:\n\nData collection and analysis\nEcological research methods\nScience communication"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "projects",
+    "section": "",
+    "text": "Lab 2 (MinnesotaTreeGrowth)\nReturn to Home"
+  },
+  {
+    "objectID": "docs/projects.html",
+    "href": "docs/projects.html",
+    "title": "projects",
+    "section": "",
+    "text": "Lab 2 (MinnesotaTreeGrowth)\nReturn to Home"
+  }
+]

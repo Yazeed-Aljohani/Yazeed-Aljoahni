@@ -1,0 +1,30 @@
+---
+title: "Yazeed Aljohani"
+image: media/profile.jpg 
+image-width: 17em
+image-shape: round
+toc: false  
+
+about:
+  template: jolla  
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/yazeed-aljohani/
+    - text: GitHub
+      icon: github
+      href: https://github.com/Yazeed-Aljohani
+    - text: Email
+      icon: envelope
+      href: mailto:yazeed21@colostate.edu
+---
+
+#  About Me
+
+An Ecosystem Science and Sustainability major with a strong interest in carbon management. While in school, I have been involved in research projects on bat conservation, working on data collection and analysis. In professional settings, I bring analytical thinking to contribute to sustainability initiatives and ecological research. I seek to apply my expertise in organizations focused on environmental sustainability and leverage my core competencies:
+
+-   Data collection and analysis
+
+-   Ecological research methods
+
+-   Science communication
